@@ -1,9 +1,5 @@
-**README**
 
 **Curso básico y avanzado Linux WIP**
-
-**José Santorcuato Tapia**
-
 
 **Ubuntu, Debian, Centos**
 
